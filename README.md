@@ -1,1 +1,0 @@
-# VoltCore Electric demo
